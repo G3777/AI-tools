@@ -1,0 +1,32 @@
+[
+    {
+        "system": "",
+        "prompt": "给出一个使用Bootstrap框架的Landing page HTML和CSS，其中包含一个领先生成表单，用于输入电子邮件地址和电话号码。",
+        "history": [],
+        "answer": [
+            "这是一个使用Bootstrap框架的基本Landing page HTML结构的示例：",
+            "Here is an example of a basic landing page HTML structure using the Bootstrap framework:"
+        ]
+    }
+]
+
+
+
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": ""
+    }
+    ],
+    "chosen": {
+      "from": "gpt",
+      "value": ""
+    },
+    "rejected": {
+      "from": "gpt",
+      "value": ""
+    }
+  }
+]
