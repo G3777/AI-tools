@@ -1,0 +1,9 @@
+[submodule "dataset-convert/dataset-convert/LLM-datagen"]
+	path = dataset-convert/dataset-convert/LLM-datagen
+	url = https://github.com/DocShotgun/LLM-datagen.git
+[submodule "dataset-convert/fromGit/LLM-datagen"]
+	path = dataset-convert/fromGit/LLM-datagen
+	url = https://github.com/DocShotgun/LLM-datagen.git
+[submodule "dataset-convert/fromGit/llm-dataset-converter"]
+	path = dataset-convert/fromGit/llm-dataset-converter
+	url = https://github.com/waikato-llm/llm-dataset-converter.git
